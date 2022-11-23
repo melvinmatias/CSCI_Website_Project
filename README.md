@@ -5,7 +5,7 @@ The Homepage is a Classic set up with a navbar and some filler content. This is 
 
 #About the nav bar real quick
 Again please copy paste it on all pages you work on. In the code you'll see I commented "Nav Items" in that sections you will see:
-<!--
+
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
@@ -21,10 +21,10 @@ Again please copy paste it on all pages you work on. In the code you'll see I co
               <li class="nav-item">
                 <a class="nav-link" href="#">About Us</a>
               </li>
--->
+
               
 As you can see the first one has class="nav-link active" aria-current="page" href="#". For the homepage the home option is the current page, just copy that part over to the other sections when you are on them. for example if youre on the Account page you would have:
-<!--
+
               <li class="nav-item">
                 <a class="nav-link" href="#">Home</a>
               </li>
@@ -40,7 +40,7 @@ As you can see the first one has class="nav-link active" aria-current="page" hre
               <li class="nav-item">
                 <a class="nav-link" href="#">About Us</a>
               </li>
--->
+
 The Hrefs we can leave with the "#" placeholder for now
 
 #Shop Page
