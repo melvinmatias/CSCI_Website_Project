@@ -53,4 +53,4 @@ If customer isn't logged this is a log in page. If they are, when on this page i
 Just shows whats in our cart. 
 
 #About Us Page
-Easy page about the business. Nothing serious just a way to make it look like we did extra stuff 
+Simple page about the business. What we sell where we're located, add an image or too to make it look spiffy
