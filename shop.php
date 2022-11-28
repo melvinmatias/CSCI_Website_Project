@@ -62,7 +62,7 @@
     <!--Navigation Bar Code--------------------------------------------------------------------->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="projectIndex.html">Base<img src = 'logo.png' width="25" height="25">Pro</a>
+          <a class="navbar-brand" href="projectIndex.php">Base<img src = 'logo.png' width="25" height="25">Pro</a>
           <button
             class="navbar-toggler"
             type="button"
@@ -78,19 +78,19 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <!--Nav Items-->
               <li class="nav-item">
-              <a class="nav-link" href="projectIndex.html">Home</a>
+              <a class="nav-link" href="projectIndex.php">Home</a>
               </li>
               <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="shop.php">Shop</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Account</a>
+                <a class="nav-link" href="login.php">Account</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="cart.php">Shopping Cart</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">About Us</a>
+                <a class="nav-link" href="about_us.php">About Us</a>
               </li>
             </ul>
           </div>
