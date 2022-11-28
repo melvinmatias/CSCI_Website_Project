@@ -50,9 +50,10 @@
           else if(isset($_POST['mybutton'])){
             if(isset($_POST['num'])){
               $result = $_POST['num'];
-              if($result == 'cards4you*') {
-                $message = "Correct Password";
+              if($result == 'admin'){
+                $message = "Correct Login";
               }
+
               else {
                 $message = "Wrong Password, Try Again";
                 --$_SESSION["count"];
@@ -73,7 +74,8 @@
           <label> <?php echo $message ?> </label> <br>
           <label> <?php echo $_SESSION["count"] ?> </label>
           <br> <input type = text name = num> <br>
-          <input type = submit name =mybutton> <br>
+          <br> <input type = text name = num2> <br>
+          <br> <input type = submit name =mybutton> <br>
         </center>
 
     <!--Footer---------------------------------------------------------------------------------------------->
