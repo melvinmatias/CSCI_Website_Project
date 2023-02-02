@@ -1,4 +1,4 @@
-# Aw-Meng
+# CSCI_Website_Project
 
 #Homepage
 The Homepage is a Classic set up with a navbar and some filler content. This is a good shell to work off when it comes to the other pages we want to design so please keep the nav bar and footer code from this page and use it on all pages
